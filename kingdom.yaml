@@ -1,0 +1,8 @@
+name: pain
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The signal that tells the kingdom where something is wrong so it can be healed.
+dependsOn: [truth, justice, fear]
